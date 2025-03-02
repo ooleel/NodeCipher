@@ -1,4 +1,4 @@
-This message-encryption program using various ciphers and displays the encrypted message to the console. 
+This message-encryption program uses various ciphers and displays the encrypted message to the console. 
 
 To run the program, type to the terminal a command following this syntax:
 - if you want to **encode** or **decode** a message: 
