@@ -6,7 +6,7 @@ To run the program, type to the terminal a command following this syntax:
 - if you want to use any of the ciphers (**caesar, symbol, reverse**):
 `$ node message-mixer.js <caesar/symbol/reverse>`
 
-Some examples of commmands to run this program: 
+Some examples of commmands to run this program:
 
 ```
 $ node message-mixer.js caesar 4
